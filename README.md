@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Subrata kumar dev
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning REACT
+- 👀 I'm learning Machine Learning in context of "application of machine learning in Civil Engineering Projects"
