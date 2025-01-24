@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Subrata kumar dev
-- 👀 I'm learning Machine Learning in context of "application of machine learning in Civil Engineering Projects"
+- 👀 I'm learning Machine Learning in context of "Application of Machine Learning in Civil Engineering Projects"
