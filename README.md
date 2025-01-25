@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Subrata kumar dev
+- 👋 Hi, I’m Subrata kumar dev, a passionate Civil Engineer.
 - 👀 I'm learning Machine Learning in context of "Application of Machine Learning in Civil Engineering Projects"
